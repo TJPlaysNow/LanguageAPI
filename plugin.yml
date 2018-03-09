@@ -1,0 +1,7 @@
+name: LanguageAPI
+author: TJPlaysNow
+main: com.tjplaysnow.api.language.PluginMain
+version: 1.0
+commands:
+  language:
+    description: The base language command.
